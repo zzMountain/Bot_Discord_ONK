@@ -35,4 +35,4 @@ async def on_message(message):
                 await message.author.add_roles(role)
             await message.author.edit(nick=str(new_nick))
 
-client.run('OTMyOTI3MzUwODA1NTI4NTk2.YeaGTQ.h9nFXOc-Ow_j_omKtYDhAxgfwaQ')
+client.run('Токен')
